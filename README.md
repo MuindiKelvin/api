@@ -1,6 +1,6 @@
 # api
 #Create a database and fill in its tables with your data
-#Crete a main folder [api],
+#Create a main folder [api],
 #Add other folders,[Product,category,config,objects,shared]
 #Install POSTMAN 
 #Use POSTMAN to make api requests.
